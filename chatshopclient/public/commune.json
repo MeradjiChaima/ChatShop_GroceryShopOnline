@@ -1,0 +1,19 @@
+{
+    "Alger": [
+      { "value": "", "label": "Commune.." },
+      { "value": "BAB EL OUED", "label": "BAB EL OUED" },
+      { "value": "BARAKI", "label": "BARAKI" },
+      { "value": "HYDRA", "label": "HYDRA" },
+      { "value": "CHERAGA", "label": "CHERAGA" },
+      { "value": "ROUIBA", "label": "ROUIBA" },
+      { "value": "BAB EZZOUAR", "label": "BAB EZZOUAR" },
+      { "value": "OUED SMAR", "label": "OUED SMAR" }
+    ],
+    "Blida": [
+      { "value": "", "label": "Commune.." },
+      { "value": "BLIDA", "label": "BLIDA" },
+      { "value": "BOUFARIK", "label": "BOUFARIK" }
+     
+    ]
+
+  }

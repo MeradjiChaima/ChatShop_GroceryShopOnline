@@ -1,0 +1,58 @@
+[
+    {
+        "idshop":1,
+      "name": "Super Market",
+      "picture": "shop.jpg",
+      "appreciations": 4.1,
+      "adresse": "123 Main St",
+      "workTime": "Mon-Fri: 8am-10pm",
+      "wilaya":"Alger",
+      "commune":"CHERAGA"
+    },
+    { "idshop":2,
+      "name": "Green Grocery",
+      "picture": "shop.jpg",
+      "appreciations": 4.2,
+      "adresse": "456 Elm St",
+      "workTime": "Mon-Fri: 9am-7pm",
+      "wilaya":"Alger",
+      "commune":"CHERAGA"
+    },
+    {  "idshop":3,
+        "name": "Super Market",
+        "picture": "shop.jpg",
+        "appreciations": 3.5,
+        "adresse": "123 Main St",
+        "workTime": "Mon-Fri: 8am-10pm",
+        "wilaya":"Alger",
+        "commune":"BAB EZZOUAR"
+      },
+      {  "idshop":4,
+        "name": "Green Grocery",
+        "picture": "shop.jpg",
+        "appreciations": 1.2,
+        "adresse": "456 Elm St",
+        "workTime": "Mon-Fri: 9am-7pm",
+        "wilaya":"Blida",
+        "commune":"BAB EZZOUAR"
+      },
+      {  "idshop":5,
+        "name": "Super Market",
+        "picture": "shop.jpg",
+        "appreciations": 4.5,
+        "adresse": "123 Main St",
+        "workTime": "Mon-Fri: 8am-10pm",
+        "wilaya":"blida",
+        "commune":"Boufarik"
+      },
+      {  "idshop":6,
+        "name": "Green Grocery",
+        "picture": "shop.jpg",
+        "appreciations": 4.2,
+        "adresse": "456 Elm St",
+        "workTime": "Mon-Fri: 9am-7pm",
+        "wilaya":"blida",
+        "commune":"Boufarik"
+      }
+    
+  ]

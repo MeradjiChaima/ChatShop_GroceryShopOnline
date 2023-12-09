@@ -1,0 +1,59 @@
+[
+ 
+    {
+      "id": 1,
+      "name": "Product 1",
+      "image": "product1.jpg",
+      "price": 10.99,
+      "category": "Fruits and Vegetables",
+      "brand": "Brand A",
+      "shopId": 1
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "image": "product2.jpg",
+      "price": 15.99,
+      "category": "Fruits and Vegetables",
+      "brand": "Brand A",
+      "shopId": 1
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "image": "product3.jpg",
+      "price": 8.49,
+      "category": "Fruits and Vegetables",
+      "brand": "Brand A",
+      "shopId": 2
+    },
+ 
+    {
+      "id": 1,
+      "name": "Product 1",
+      "image": "product1.jpg",
+      "price": 8.49,
+      "category": "Spices",
+      "brand": "Brand B",
+      "shopId": 2
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "image": "product2.jpg",
+      "price": 12.99,
+      "category": "Spices",
+      "brand": "Brand B",
+      "shopId": 2
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "image": "product3.jpg",
+      "price": 6.99,
+      "category": "Spices",
+      "brand": "Brand B",
+      "shopId": 3
+    }
+ 
+]
